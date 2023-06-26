@@ -5,24 +5,24 @@ The project is to build a webpage that checks a weather API and gives out the we
 
 ## Installation
 To start enter a city in the textbox.
-![screenshot of Homepage](assets/images/01.PNG) 
+![screenshot of Homepage](assets/images/01.png) 
 
 Please not the site will give an alert on bad input.
-![screenshot of bad input response](assets/images/07.PNG) 
+![screenshot of bad input response](assets/images/07.png) 
 
 Afterwards it will display the weather.
-![screenshot of forcast](assets/images/02.PNG) 
+![screenshot of forcast](assets/images/02.png) 
 
 Once you keep entering a few cities, it will save them into your local page as shown here.
-![screenshot of weather history](assets/images/03.PNG) 
+![screenshot of weather history](assets/images/03.png) 
 
 Once you have a search history, you can retrieve weather by clicking one of the search history.
 
-![screenshot of getting history weather](assets/images/04.PNG) 
+![screenshot of getting history weather](assets/images/04.png) 
 
 If you reload, your search history remains. Keep note that it will cotinue to increase the list and will not remopve items.
 
-![screenshot of maintaining history weather](assets/images/05.PNG) 
+![screenshot of maintaining history weather](assets/images/05.png) 
 
 
 ## Usage

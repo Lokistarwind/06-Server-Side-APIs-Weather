@@ -24,7 +24,7 @@ If you reload, your search history remains. Keep note that it will cotinue to in
 
 ![screenshot of maintaining history weather](assets/images/05.png) 
 
-### NOTE:Due to an issue with openweathermap api sending data back being not secured it blocks the page from running properly. To run it, the site needs to allow insecure content to run it as intended.
+### NOTE: Due to an issue with openweathermap api sending data back being not secured it blocks the page from running properly. To run it, the site needs to allow insecure content to run it as intended.
 
 ## Usage
 

@@ -62,7 +62,7 @@ var getCoordinate = function (city) {
   var location = city.split(" ");
   var fullLocation = location.join("+");
 
-  var coordinateAPI = 'http://api.openweathermap.org/geo/1.0/direct?q=' + fullLocation + '&appid=6e23fb5a9f75d211ea5466fc9703f4d1';
+  var coordinateAPI = 'https://api.openweathermap.org/geo/1.0/direct?q=' + fullLocation + '&appid=6e23fb5a9f75d211ea5466fc9703f4d1';
    
   fetch(coordinateAPI)
     .then(function (response) {
